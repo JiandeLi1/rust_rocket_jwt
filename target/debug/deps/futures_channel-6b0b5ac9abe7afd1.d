@@ -1,0 +1,10 @@
+c:\Users\alexl\Desktop\Project\rust_jwt\rust_jwt\target\debug\deps\futures_channel-6b0b5ac9abe7afd1.rmeta: C:\Users\alexl\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.21\src\lib.rs C:\Users\alexl\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.21\src\lock.rs C:\Users\alexl\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.21\src\mpsc\mod.rs C:\Users\alexl\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.21\src\mpsc\queue.rs C:\Users\alexl\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.21\src\mpsc\sink_impl.rs C:\Users\alexl\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.21\src\oneshot.rs
+
+c:\Users\alexl\Desktop\Project\rust_jwt\rust_jwt\target\debug\deps\futures_channel-6b0b5ac9abe7afd1.d: C:\Users\alexl\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.21\src\lib.rs C:\Users\alexl\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.21\src\lock.rs C:\Users\alexl\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.21\src\mpsc\mod.rs C:\Users\alexl\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.21\src\mpsc\queue.rs C:\Users\alexl\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.21\src\mpsc\sink_impl.rs C:\Users\alexl\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.21\src\oneshot.rs
+
+C:\Users\alexl\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.21\src\lib.rs:
+C:\Users\alexl\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.21\src\lock.rs:
+C:\Users\alexl\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.21\src\mpsc\mod.rs:
+C:\Users\alexl\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.21\src\mpsc\queue.rs:
+C:\Users\alexl\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.21\src\mpsc\sink_impl.rs:
+C:\Users\alexl\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.21\src\oneshot.rs:

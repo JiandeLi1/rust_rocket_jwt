@@ -1,0 +1,11 @@
+c:\Users\alexl\Desktop\Project\rust_jwt\rust_jwt\target\debug\deps\futures_task-e3a22955b98869b9.rmeta: C:\Users\alexl\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.21\src\lib.rs C:\Users\alexl\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.21\src\spawn.rs C:\Users\alexl\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.21\src\arc_wake.rs C:\Users\alexl\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.21\src\waker.rs C:\Users\alexl\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.21\src\waker_ref.rs C:\Users\alexl\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.21\src\future_obj.rs C:\Users\alexl\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.21\src\noop_waker.rs
+
+c:\Users\alexl\Desktop\Project\rust_jwt\rust_jwt\target\debug\deps\futures_task-e3a22955b98869b9.d: C:\Users\alexl\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.21\src\lib.rs C:\Users\alexl\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.21\src\spawn.rs C:\Users\alexl\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.21\src\arc_wake.rs C:\Users\alexl\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.21\src\waker.rs C:\Users\alexl\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.21\src\waker_ref.rs C:\Users\alexl\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.21\src\future_obj.rs C:\Users\alexl\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.21\src\noop_waker.rs
+
+C:\Users\alexl\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.21\src\lib.rs:
+C:\Users\alexl\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.21\src\spawn.rs:
+C:\Users\alexl\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.21\src\arc_wake.rs:
+C:\Users\alexl\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.21\src\waker.rs:
+C:\Users\alexl\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.21\src\waker_ref.rs:
+C:\Users\alexl\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.21\src\future_obj.rs:
+C:\Users\alexl\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.21\src\noop_waker.rs:

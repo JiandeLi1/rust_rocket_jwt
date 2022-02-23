@@ -1,0 +1,11 @@
+c:\Users\alexl\Desktop\Project\rust_jwt\rust_jwt\target\debug\deps\futures_channel-67b79e0ea74794f3.rmeta: C:\Users\alexl\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.21\src\lib.rs C:\Users\alexl\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.21\src\lock.rs C:\Users\alexl\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.21\src\mpsc\mod.rs C:\Users\alexl\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.21\src\mpsc\queue.rs C:\Users\alexl\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.21\src\oneshot.rs
+
+c:\Users\alexl\Desktop\Project\rust_jwt\rust_jwt\target\debug\deps\libfutures_channel-67b79e0ea74794f3.rlib: C:\Users\alexl\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.21\src\lib.rs C:\Users\alexl\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.21\src\lock.rs C:\Users\alexl\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.21\src\mpsc\mod.rs C:\Users\alexl\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.21\src\mpsc\queue.rs C:\Users\alexl\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.21\src\oneshot.rs
+
+c:\Users\alexl\Desktop\Project\rust_jwt\rust_jwt\target\debug\deps\futures_channel-67b79e0ea74794f3.d: C:\Users\alexl\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.21\src\lib.rs C:\Users\alexl\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.21\src\lock.rs C:\Users\alexl\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.21\src\mpsc\mod.rs C:\Users\alexl\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.21\src\mpsc\queue.rs C:\Users\alexl\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.21\src\oneshot.rs
+
+C:\Users\alexl\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.21\src\lib.rs:
+C:\Users\alexl\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.21\src\lock.rs:
+C:\Users\alexl\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.21\src\mpsc\mod.rs:
+C:\Users\alexl\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.21\src\mpsc\queue.rs:
+C:\Users\alexl\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.21\src\oneshot.rs:

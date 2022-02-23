@@ -1,0 +1,12 @@
+c:\Users\alexl\Desktop\Project\rust_jwt\rust_jwt\target\debug\deps\tempfile-4248baf005d5bf3e.rmeta: C:\Users\alexl\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.3.0\src\lib.rs C:\Users\alexl\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.3.0\src\dir.rs C:\Users\alexl\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.3.0\src\error.rs C:\Users\alexl\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.3.0\src\file\mod.rs C:\Users\alexl\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.3.0\src\file\imp\mod.rs C:\Users\alexl\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.3.0\src\spooled.rs C:\Users\alexl\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.3.0\src\util.rs C:\Users\alexl\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.3.0\src\file\imp\windows.rs
+
+c:\Users\alexl\Desktop\Project\rust_jwt\rust_jwt\target\debug\deps\tempfile-4248baf005d5bf3e.d: C:\Users\alexl\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.3.0\src\lib.rs C:\Users\alexl\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.3.0\src\dir.rs C:\Users\alexl\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.3.0\src\error.rs C:\Users\alexl\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.3.0\src\file\mod.rs C:\Users\alexl\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.3.0\src\file\imp\mod.rs C:\Users\alexl\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.3.0\src\spooled.rs C:\Users\alexl\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.3.0\src\util.rs C:\Users\alexl\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.3.0\src\file\imp\windows.rs
+
+C:\Users\alexl\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.3.0\src\lib.rs:
+C:\Users\alexl\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.3.0\src\dir.rs:
+C:\Users\alexl\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.3.0\src\error.rs:
+C:\Users\alexl\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.3.0\src\file\mod.rs:
+C:\Users\alexl\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.3.0\src\file\imp\mod.rs:
+C:\Users\alexl\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.3.0\src\spooled.rs:
+C:\Users\alexl\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.3.0\src\util.rs:
+C:\Users\alexl\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.3.0\src\file\imp\windows.rs:
